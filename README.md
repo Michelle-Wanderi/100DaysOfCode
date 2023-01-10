@@ -9,5 +9,8 @@ Day 2- 10/1/23
  Learnt about inheritance in Python . Revisited classes, instances and objects because i had an issue with them.
 Learnt about taking and formatting input in Python. These are the notes I made
 https://docs.google.com/document/d/1AhU-I25L8xyiU2mhqHU7ge6rF0l3EYwCpUOpblKkmgw/edit#
-Learnt about reading and writing files in python. Notes i made 
+<br>
+
+Learnt about reading and writing files in python. Notes i made
+ <br>
 https://docs.google.com/document/d/1jwIlGOcH8ndkDHZwWF22XBrXUnih6_Qbn_BiNw5uD0M/edit#
