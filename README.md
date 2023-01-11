@@ -14,3 +14,7 @@ https://docs.google.com/document/d/1AhU-I25L8xyiU2mhqHU7ge6rF0l3EYwCpUOpblKkmgw/
 Learnt about reading and writing files in python. Notes i made
  <br>
 https://docs.google.com/document/d/1jwIlGOcH8ndkDHZwWF22XBrXUnih6_Qbn_BiNw5uD0M/edit#
+
+<br>
+Day 3 - 11/1/23
+Revisiting some concepts in Javascript mainly DOM Manipulation and Event Listeners then I built one Frontend Mentor project that requires some DOM basics.
