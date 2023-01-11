@@ -1,0 +1,286 @@
+/* Global Rules */
+*, 
+*::before,
+*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --Strong-cyan: hsl(172, 67%, 45%);
+    --Very-dark-cyan: hsl(183, 100%, 15%);
+    --Dark-grayish-cyan: hsl(186, 14%, 43%);
+    --Grayish-cyan: hsl(184, 14%, 56%);
+    --Light-grayish-cyan: hsl(185, 41%, 84%);
+    --Very-light-grayish-cyan: hsl(189, 41%, 97%);
+    --White: hsl(0, 0%, 100%);
+    --font-family: 'Space Mono', monospace;
+}
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+button{
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+
+input:focus{
+    outline: .12em solid var(--Strong-cyan);
+}
+/* Start styling the body */
+body{
+    font-family: var(--font-family);
+    font-size: 24px;
+    background-color: var(--Light-grayish-cyan);
+    min-height: 100vh;
+    width: 100%;
+}
+main{
+    min-height: 100vh;
+    padding: 160px 0 0;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+.logo{
+    margin-bottom: 5.3125rem;
+}
+.tip__calculator-box{
+    background-color: var(--White);
+    width: 100%;
+    border-radius: 1.5rem 1.5rem 0 0;
+    padding: 2rem;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 0 22px 27px 8px rgb(0 0 0 / 8%)
+}
+.title{
+    width: 100%;
+    font-size: 1rem;
+    color: var(--Dark-grayish-cyan);
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+.input{
+    width: 100%;
+    text-align: right;
+    border-radius: 0.5rem;
+    padding: .3rem;
+    font-size: 20px;
+    font-family: var(--font-family) ;
+    background-color: var(--Very-light-grayish-cyan);
+    border: none;
+    color: var(--Very-dark-cyan);
+    margin-bottom: 2rem;
+    border: .15em solid transparent;
+    position: relative;
+    cursor: pointer;
+}
+/* the input i think can't accept before element */
+.before::before{
+    content: url(../images/icon-dollar.svg);
+    position: absolute;
+    top: calc(100% + 1.7rem);
+    left: 0.5rem;
+    transform: translateY(6px);
+    z-index: 5;
+    width: 30px;
+    height: 30px;
+}
+.sub__title{
+    font-size: 0.98rem;
+    font-weight: 700;
+    color: var(--Dark-grayish-cyan);
+    margin-bottom: 1rem;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    word-spacing: -0.2em;
+}
+.before-1::before{
+    content: url(../images/icon-person.svg);
+    position: absolute;
+    top: calc(100% + 1.7rem);
+    transform: translateY(6px);
+    left: 0.5rem;
+    z-index: 5;
+    width: 30px;
+    height: 30px;
+}
+
+.buttons{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    width: 100%;
+    margin-bottom: 2rem;
+}
+.btn{
+    background-color: var(--Very-dark-cyan);
+    padding: .5rem;
+    font-size: 22px;
+    color: var(--White);
+    font-family: var(--font-family);
+    border-radius: .4rem;
+    transition: background-color .3s ease-in
+}
+.btn:hover{
+    background-color: var(--Strong-cyan);
+}
+.custom{
+    text-align: center;
+    margin-bottom: 0;
+}
+.btn.active{
+    background-color: var(--Strong-cyan);
+}
+.number__of-people{
+    width: 100%;
+}
+.display__results{
+    margin-top: 1rem;
+    background-color: var(--Very-dark-cyan);
+    border-radius: 1rem;
+    width: 100%;
+    margin-bottom:3rem;     
+    padding: 2.5rem 1rem;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;           
+    flex-direction: column;         
+}
+.result{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1.5rem;
+}
+.description{
+    font-size: .9rem;
+    color: var(--White);
+}
+.description > span{
+    display: block;
+    color: var( --Dark-grayish-cyan);
+    margin-top: 0.68rem;
+}
+.error__msg{
+    font-size: 0.6rem;
+    color: red;
+    margin-right: 0;
+}
+.tip__amount{
+    color: var(--Strong-cyan);
+    font-weight: 700;
+    font-size: 30px;
+}
+.reset{
+    font-size: 1.2rem;
+    width: 100%;
+    padding: 0.5rem 0;
+    background-color:#0d686d;
+    text-transform: uppercase;
+    color: var(--Very-dark-cyan);
+    font-family: var(--font-family);
+    border-radius: .4rem;
+    transition: background-color .4s ease-in-out;
+}
+.reset:hover{
+    background-color: var(--Strong-cyan);
+}
+.col{
+    width: 100%;
+}
+.red-border{
+    border: .15em solid #f00;
+}
+footer{
+    width: 100%;
+    font-size: .875rem;
+    text-align: center;
+    padding: 1rem 0;
+}
+@media (min-width: 46.25em){
+    body{
+        padding: 0 1.5rem
+    }
+    /* main{
+        justify-content: center;
+    } */
+    .tip__calculator-box{
+        width: 100%;
+        max-width:920px;
+        border-radius: 1.5rem;
+        padding: 1.875rem;
+        justify-content: space-between;
+        flex-direction: row
+    }
+    .col{
+        width: 48%;
+        display: flex;
+        align-items: flex-start;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .display__results{
+        width: 48%;
+        margin: 0;
+        padding: 4rem 2rem 2rem;
+    }
+    .title{
+        margin-top: 1rem;
+        font-size: 1.1rem;
+    }
+    .input {
+        margin-bottom: 0rem;
+    }
+    .input-1{
+        margin-bottom: 1.25rem;
+    }
+    .sub__title{
+        margin: 1rem 0;
+        font-size: 1rem;
+        word-spacing: normal;
+    }
+    .buttons{
+        grid-template-columns: 1fr 1fr 1fr;
+        margin-bottom: 1rem;
+    }
+    .btn{
+        padding: 0.7rem
+    }
+    .result{
+        margin-bottom: 3.75rem;
+    }
+    .description{
+        font-size: 1.1rem;
+    }
+    .error__msg{
+        font-size: 0.8rem;
+    }
+    .tip__amount{
+        font-size: 2.25rem;
+    }
+    .reset{
+        margin-top: 3.4rem;
+        padding: 0.7rem;
+    }
+}
