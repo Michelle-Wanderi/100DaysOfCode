@@ -19,3 +19,7 @@ https://docs.google.com/document/d/1jwIlGOcH8ndkDHZwWF22XBrXUnih6_Qbn_BiNw5uD0M/
 Day 3 - 11/1/23
 Revisiting some concepts in Javascript mainly DOM Manipulation and Event Listeners then I built one Frontend Mentor project that requires some DOM basics.
 Just worked on the design i will work on the JS functionality
+
+Day 4 - 12/1/23
+Still learning about event listeners and manipulating the DOM.
+Revisited test driven development in Python and compiled some notes which I'll convert into an article.
