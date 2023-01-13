@@ -23,3 +23,8 @@ Just worked on the design i will work on the JS functionality
 Day 4 - 12/1/23
 Still learning about event listeners and manipulating the DOM.
 Revisited test driven development in Python and compiled some notes which I'll convert into an article.
+
+
+Day 5 - 13/1/23
+Learnt about private attributes, getters/setters and the property method, serialization and deserialization of a JSON object in Python 
+Did another project in JS(an advice generator)This project focused on these key concepts(document.querySelector,addEventListener, Math Object and innerText)
