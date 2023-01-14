@@ -30,3 +30,4 @@ Learnt about private attributes, getters/setters and the property method, serial
 Did another project in JS(an advice generator)This project focused on these key concepts(document.querySelector,addEventListener, Math Object and innerText)
 
 Day 6 - 14/1/23 <br>
+Learnt about the difference between class and static methods in Python.
