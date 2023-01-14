@@ -28,3 +28,5 @@ Revisited test driven development in Python and compiled some notes which I'll c
 Day 5 - 13/1/23 <br>
 Learnt about private attributes, getters/setters and the property method, serialization and deserialization of a JSON object in Python 
 Did another project in JS(an advice generator)This project focused on these key concepts(document.querySelector,addEventListener, Math Object and innerText)
+
+Day 6 - 14/1/23 <br>
