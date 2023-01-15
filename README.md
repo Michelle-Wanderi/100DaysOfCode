@@ -31,3 +31,6 @@ Did another project in JS(an advice generator)This project focused on these key 
 
 Day 6 - 14/1/23 <br>
 Learnt about the difference between class and static methods in Python.
+
+Day 7 - 15/1/23 <br>
+Today is my rest day
