@@ -34,3 +34,5 @@ Learnt about the difference between class and static methods in Python.
 
 Day 7 - 15/1/23 <br>
 Today is my rest day
+
+Day 8 - 16/1/23 <br>
