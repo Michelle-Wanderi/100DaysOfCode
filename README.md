@@ -36,3 +36,8 @@ Day 7 - 15/1/23 <br>
 Today is my rest day
 
 Day 8 - 16/1/23 <br>
+Didn't do much today, I just revisited some concepts in Javascript , the basics such as arrow functions and arrays
+
+Day 9 - 17/1/23 <br>
+Started learning React. Just finished with the installation of everything. Also learnt some of SQL
+
