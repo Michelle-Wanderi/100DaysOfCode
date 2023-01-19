@@ -41,3 +41,8 @@ Didn't do much today, I just revisited some concepts in Javascript , the basics 
 Day 9 - 17/1/23 <br>
 Started learning React. Just finished with the installation of everything. Also learnt some of SQL
 
+Day 10 - 18/1/23 <br>
+Did not do anything today except schoolwork
+
+Day 11 - 19/1/23 <br>
+Wrote my first React code. Learnt about JSX and creating custom components
