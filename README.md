@@ -46,3 +46,8 @@ Did not do anything today except schoolwork
 
 Day 11 - 19/1/23 <br>
 Wrote my first React code. Learnt about JSX and creating custom components
+
+Day 12 - 20/1/23 <br>
+
+
+Day 13 - 21/1/23 <br>
