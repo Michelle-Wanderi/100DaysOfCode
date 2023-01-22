@@ -51,3 +51,7 @@ Day 12 - 20/1/23 <br>
 
 
 Day 13 - 21/1/23 <br>
+Watched the React tutorial - I will upload what i have learnt once i have finished
+
+Day 14 - 22/1/23 <br>
+Today is my rest day
