@@ -55,3 +55,6 @@ Watched the React tutorial - I will upload what i have learnt once i have finish
 
 Day 14 - 22/1/23 <br>
 Today is my rest day
+
+Day 15 - 23/1/23 <br>
+Learnt about node modules in React and how to start a project in React locally. 
