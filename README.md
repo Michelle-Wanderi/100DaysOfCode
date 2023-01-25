@@ -58,3 +58,6 @@ Today is my rest day
 
 Day 15 - 23/1/23 <br>
 Learnt about node modules in React and how to start a project in React locally. 
+
+Day 16 and 17 - 24/1/23 <br>
+Took a little break but I will resume on Day 18
