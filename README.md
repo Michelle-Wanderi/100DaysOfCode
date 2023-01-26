@@ -61,3 +61,6 @@ Learnt about node modules in React and how to start a project in React locally.
 
 Day 16 and 17 - 24/1/23 <br>
 Took a little break but I will resume on Day 18
+
+Day 18 - 26/1/23 <br>
+Started the Freecode camp's course on Tailwind CSS. Stuck with my react project but hopefully I will make changes tomorrow
