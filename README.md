@@ -64,3 +64,11 @@ Took a little break but I will resume on Day 18
 
 Day 18 - 26/1/23 <br>
 Started the Freecode camp's course on Tailwind CSS. Stuck with my react project but hopefully I will make changes tomorrow
+
+Day 19 - 27/1/23
+
+DAY 20 - 28/1/23
+
+Day 21 - 29/1/23
+
+Day 22 - 30/1/23
