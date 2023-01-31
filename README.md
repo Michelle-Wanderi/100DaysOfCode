@@ -65,10 +65,17 @@ Took a little break but I will resume on Day 18
 Day 18 - 26/1/23 <br>
 Started the Freecode camp's course on Tailwind CSS. Stuck with my react project but hopefully I will make changes tomorrow
 
-Day 19 - 27/1/23
+Day 19 - 27/1/23 <br>
+Finally learnt how to install Tailwind CSS througH Create React App
 
-DAY 20 - 28/1/23
+DAY 20 - 28/1/23 <br>
+Dived into DevOps and learnt about parsing and loops
 
-Day 21 - 29/1/23
+Day 21 - 29/1/23  <br>
+Dived into DevOps and learnt about processes and signals
 
-Day 22 - 30/1/23
+Day 22 - 30/1/23  <br>
+Learnt more about React and revisited Javascript objects
+
+Day 23 - 31/1/23 <br>
+Started a new Frontend Mentor challenge to practice what I have learnt to so far in React and Tailwind
