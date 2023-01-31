@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# Print Best school 10 times to stdout but for the 9th iteration it displays Hi
+
+counter=0
+
+while [ $counter -lt 10 ]
+do
+    if [ $counter -eq 9 ]
+    then
+        echo "Hi"
+    fi
+    echo "Best School"
+    ((counter++))
+    done
+
