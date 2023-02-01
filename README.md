@@ -79,3 +79,6 @@ Learnt more about React and revisited Javascript objects
 
 Day 23 - 31/1/23 <br>
 Started a new Frontend Mentor challenge to practice what I have learnt to so far in React and Tailwind
+
+Day 24 - 1/2/23 <br>
+Today I am learning about DevOps and specifically about regular expressions
