@@ -82,3 +82,13 @@ Started a new Frontend Mentor challenge to practice what I have learnt to so far
 
 Day 24 - 1/2/23 <br>
 Today I am learning about DevOps and specifically about regular expressions
+
+Day 25 - 2/2/23  <br>
+Worked on networking basics such as the TCP/IP and OSI models
+
+Day 26 - 3/3/23 <br>
+
+Day 27 - 4/3/23 <br>
+
+Day 28 - 5/3/23 <br>
+Today is my rest day
