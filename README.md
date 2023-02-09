@@ -86,9 +86,21 @@ Today I am learning about DevOps and specifically about regular expressions
 Day 25 - 2/2/23  <br>
 Worked on networking basics such as the TCP/IP and OSI models
 
-Day 26 - 3/3/23 <br>
+Day 26 - 3/2/23 <br>
 
-Day 27 - 4/3/23 <br>
+Day 27 - 4/2/23 <br>
 
-Day 28 - 5/3/23 <br>
+Day 28 - 5/2/23 <br>
 Today is my rest day
+
+Day 29 - 6/2/23
+
+Day 30 - 7/2/23
+Working on an AirBnb clone 
+I had to revisit some concepts such as inheritance, python modules
+
+Day 31 - 8/2/23
+Still working on the frontend mentor challenge with React and Tailwind
+
+Day 32 - 9/2/23
+Writing some unit tests for the project
